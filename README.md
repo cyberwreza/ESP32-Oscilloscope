@@ -4,8 +4,11 @@ This script turns your ESP32 microcontroller into a basic oscilloscope that disp
 
 ## Features
 -Live analog signal display (static, not scrolling)
+
 -Grid and axis for voltage/time reference
+
 -Smoothed waveform drawing
+
 -Optimized for ESP32 (12-bit ADC on pin 36)
 
 ![](Media1.PNG))

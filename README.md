@@ -11,7 +11,7 @@ This script turns your ESP32 microcontroller into a basic oscilloscope that disp
 
 -Optimized for ESP32 (12-bit ADC on pin 36)
 
-![](Media1.PNG))
+![](Media1.png))
 ![](Media2.PNG)) 
 
 
